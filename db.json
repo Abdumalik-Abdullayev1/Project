@@ -1,0 +1,254 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Dilshodbek",
+      "lname": "Karimov",
+      "fullname": "Olim o'g'li",
+      "birthday": "21.05.1980",
+      "knows": ["Gulbahor", "Jamshid", "Nodira", "Hamid"],
+      "email": "Sincere@april.biz",
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "address": {
+        "street": "Kulas Light",
+        "suite": "Dilshod Karimov Buxorodagi oddiy o‘qituvchilar oilasida tug‘ilgan. Yoshligidan o‘qishga qiziqqan va Toshkentdagi Nizomiy nomidagi Pedagogika universitetida tahsil olgan. Keyinchalik o‘z tug‘ilib o‘sgan qishlog‘iga qaytib, maktabda direktor bo‘lgan. U o‘quvchilari orasida iste’dodli bolalarni ko‘p qo‘llab-quvvatlagan. 2000-yillarda uning sinfida o‘qiganlardan biri – Jamshid Abdullayev bo‘lgan. Shuningdek, Dilshodning singlisi Gulbahor ham hayotida muhim o‘rin tutadi",
+        "city": "Gwenborough",
+        "zipcode": "92998-3874"
+      },
+      "phone": "1-770-736-8031",
+      "profession": "Maktab direktori",
+      "company": {
+        "name": "Romaguera-Crona",
+        "catchPhrase": "Multi-layered client-server neural-net",
+        "bs": "harness real-time e-markets"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Gulbahor",
+      "lname": "Karimova",
+      "fullname": "Olim qizi",
+      "birthday": "02.08.1987",
+      "knows": ["Dilshodbek", "Jamshid", "Hamid", "Nodira"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Shanna@melissa.tv",
+      "address": {
+        "street": "Victor Plains",
+        "suite": "Gulbahor – Dilshod Karimovning singlisi. Oilaviy sharoit og‘ir bo‘lgani uchun kichik yoshligidan mehnat qilgan. Keyinchalik o‘zining kichik tikuvchilik sexini ochgan. Hozirda u tikuvchilik bilan birga onlayn buyurtmalar qabul qiladi. Sinfdoshi va do‘sti Umid Hamroyev esa unga IT bo‘yicha maslahatlar berib, internetda reklama qilishiga yordam bergan.",
+        "city": "Wisokyburgh",
+        "zipcode": "90566-7771",
+        "geo": {
+          "lat": "-43.9509",
+          "lng": "-34.4618"
+        }
+      },
+      "phone": "010-692-6593",
+      "profession": "Tikuvchi",
+      "company": {
+        "name": "Deckow-Crist",
+        "catchPhrase": "Proactive didactic contingency",
+        "bs": "synergize scalable supply-chains"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nodira",
+      "lname": "Raxmatullayeva",
+      "fullname": "Abbos qizi",
+      "birthday": "11.10.1987",
+      "knows": ["Hamid", "Gulbahor", "Dilshodbek", "Jamshid"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Nathan@yesenia.net",
+      "address": {
+        "street": "Douglas Extension",
+        "suite": "Nodira Samarqand Davlat universitetining fizika-matematika fakultetini bitirgan. Dasturchilikka qiziqib, o‘zini IT sohasida sinab ko‘rgan. Hozirda bir xususiy bankning IT bo‘limida xavfsizlik muhandisi bo‘lib ishlaydi. U yerda u Hamid Ismoilov bilan bir jamoada ishlaydi. Ular ko‘p loyihalarda hamkorlik qilishgan va yaxshi do‘st bo‘lishgan.",
+        "city": "McKenziehaven",
+        "zipcode": "59590-4157",
+        "geo": {
+          "lat": "-68.6102",
+          "lng": "-47.0653"
+        }
+      },
+      "phone": "1-463-123-4447",
+      "profession": "IT muhandis",
+      "company": {
+        "name": "Romaguera-Jacobson",
+        "catchPhrase": "Face to face bifurcated interface",
+        "bs": "e-enable strategic applications"
+      }
+    },
+    {
+      "id": 4,
+      "name": "Jamshid",
+      "lname": "Abdullayev",
+      "fullname": "Sayidbek o'g'li",
+      "birthday": "15.09.1995",
+      "knows": ["Dilshodbek", "Gulbahor", "Hamid", "Nodira"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Julianne.OConner@kory.org",
+      "address": {
+        "street": "Hoeger Mall",
+        "suite": "Jamshid yoshligida Dilshod Karimov direktor bo‘lgan maktabda o‘qigan. U jurnalistikaga qiziqib, Toshkent Axborot Texnologiyalari universitetida tahsil olgan. O‘zbekiston bo‘ylab turli ijtimoiy mavzularda reportajlar tayyorlab, xalq orasida mashhurlikka erishgan. Uning sinfdoshi va do‘sti Umid Hamroyev bilan ko‘p safarlarda birga bo‘lgan.",
+        "city": "South Elvis",
+        "zipcode": "53919-4257",
+        "geo": {
+          "lat": "29.4572",
+          "lng": "-164.2990"
+        }
+      },
+      "phone": "493-170-9623 156",
+      "profession": "Jurnalist",
+      "company": {
+        "name": "Robel-Corkery",
+        "catchPhrase": "Multi-tiered zero tolerance productivity",
+        "bs": "transition cutting-edge web services"
+      }
+    },
+    {
+      "id": 5,
+      "name": "Hamid",
+      "lname": "Ismoilov",
+      "fullname": "Xusan o'g'li",
+      "birthday": "23.07.1986",
+      "knows": ["Jamshid", "Nodira"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Lucio_Hettinger@annie.ca",
+      "address": {
+        "street": "Skiles Walks",
+        "suite": "Hamid yoshligida Andijondan Toshkentga ko‘chib kelgan. TATUda o‘qib, so‘ng IT sohasiga kirgan. Bank tizimida Nodira Raxmatullayeva bilan birga ishlaydi. Birgalikda ko‘plab tizimlarni himoyalashga oid loyihalarda qatnashgan. Bo‘sh vaqtida esa ijtimoiy bloglar yuritadi va Jamshid Abdullayev bilan onlayn intervyular o‘tkazgan.",
+        "city": "Roscoeview",
+        "zipcode": "33263",
+        "geo": {
+          "lat": "-31.8129",
+          "lng": "62.5342"
+        }
+      },
+      "phone": "(254)954-1289",
+      "profession": "Kiberxavfsizlik",
+      "company": {
+        "name": "Keebler LLC",
+        "catchPhrase": "User-centric fault-tolerant solution",
+        "bs": "revolutionize end-to-end systems"
+      }
+    },
+    {
+      "id": 6,
+      "name": "Azizbek",
+      "lname": "Tursunov",
+      "fullname": "Omon o'g'li",
+      "birthday": "16.08.1978",
+      "knows": ["Shaxzod", "Laylo", "Saida", "Sanjar"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Karley_Dach@jasper.info",
+      "address": {
+        "street": "Norberto Crossing",
+        "suite": "Azizbek bolaligidan texnikaga qiziqqan. Harbiy xizmatdan keyin avtota’mirlash ustaxonasida ishlay boshlagan. 2000-yillarda o‘zining kichik avtoservis biznesini ochgan. Uning o‘g‘li Shaxzod texnika sohasida emas, balki san’atga qiziqqan, ammo ota har doim uni qo‘llab-quvvatlagan",
+        "city": "South Christy",
+        "zipcode": "23505-1337",
+        "geo": {
+          "lat": "-71.4197",
+          "lng": "71.7478"
+        }
+      },
+      "phone": "77-935-8478-430",
+      "profession": "Avtomexanik",
+      "company": {
+        "name": "Considine-Lockman",
+        "catchPhrase": "Synchronised bottom-line interface",
+        "bs": "e-enable innovative applications"
+      }
+    },
+    {
+      "id": 7,
+      "name": "Laylo",
+      "lname": "Shodieva",
+      "fullname": "Anvar qizi",
+      "birthday": "30.09.1989",
+      "knows": ["Shaxzod", "Saida", "Azizbek", "Sanjar"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Telly.Hoeger@billy.biz",
+      "address": {
+        "street": "Rex Trail",
+        "suite": "Laylo maktabda faol, fan olimpiadalarida qatnashadigan o‘quvchi bo‘lgan. O‘qituvchilikka kirib kelib, Toshkentda faoliyat olib borgan. U yerda ijodiy yoshlar bilan ishlash loyihasida ishtirok etgan va Shaxzod Tursunovning darslaridan tashqari tanlovi o‘qituvchisi bo‘lgan.",
+        "city": "Howemouth",
+        "zipcode": "58804-1099"
+      },
+      "phone": "210-067-6132",
+      "profession": "Adabiyot o‘qituvchisi",
+      "company": {
+        "name": "Johns Group",
+        "catchPhrase": "Configurable multimedia task-force",
+        "bs": "generate enterprise e-tailers"
+      }
+    },
+    {
+      "id": 8,
+      "name": "Shaxzod",
+      "lname": "Tursunov",
+      "fullname": "Azizbek o'g'li",
+      "birthday": "21.11.2002",
+      "knows": ["Azizbek", "Laylo", "Sanjar", "Saida"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Sherwood@rosamond.me",
+      "address": {
+        "street": "Ellsworth Summit",
+        "suite": "Shaxzod – Azizbekning o‘g‘li. U maktabda adabiyotga va teatrga qiziqqan. Laylo Shodieva uni ijodiy tanlovlarga tayyorlagan. Hozirda u Instagram va YouTube orqali ijtimoiy komediya videolar tayyorlab mashhur bo‘lgan. Uning eng yaqin do‘sti va montaj bo‘yicha sherigi – Sanjar",
+        "city": "Aliyaview",
+        "zipcode": "45169"
+      },
+      "phone": "586-493-6943",
+      "profession": "Aktyor, bloger",
+      "company": {
+        "name": "Abernathy Group",
+        "catchPhrase": "Implemented secondary concept",
+        "bs": "e-enable extensible e-tailers"
+      }
+    },
+    {
+      "id": 9,
+      "name": "Sanjar",
+      "lname": "Olimov",
+      "fullname": "Sarvar o'g'li",
+      "birthday": "01.01.2001",
+      "knows": ["Shaxzod", "Saida", "Shaxzod", "Azizbek"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Chaim_McDermott@dana.io",
+      "address": {
+        "street": "Dayna Park",
+        "suite": "Sanjar Yosh Texniklar Stansiyasida montaj va grafik dizayn bilan shug‘ullangan. Shaxzod Tursunov bilan Telegram orqali tanishib, blogerlik faoliyatini rivojlantirishda ko‘mak bergan. Ularning ko‘plab videolari viral bo‘lgan. Sanjar o‘zining xizmatlarini reklama qilish uchun Saida bilan hamkorlik qilgan.",
+        "city": "Bartholomebury",
+        "zipcode": "76495-3109"
+      },
+      "phone": "(775)976-67-940",
+      "profession": "Video-montajchi",
+      "company": {
+        "name": "Yost and Sons",
+        "catchPhrase": "Switchable contextually-based project",
+        "bs": "aggregate real-time technologies"
+      }
+    },
+    {
+      "id": 10,
+      "name": "Saida",
+      "lname": "Rasulova",
+      "fullname": "Behruz qizi",
+      "birthday": "24.06.1996",
+      "knows": ["Shaxzod", "Sanjar", "Laylo"],
+      "image": "https://media.istockphoto.com/id/1016744004/vector/profile-placeholder-image-gray-silhouette-no-photo.jpg?s=612x612&w=0&k=20&c=mB6A9idhtEtsFXphs1WVwW_iPBt37S2kJp6VpPhFeoA=",
+      "email": "Rey.Padberg@karina.biz",
+      "address": {
+        "street": "Kattie Turnpike",
+        "suite": "Saida Qarshi Davlat universitetida jurnalistika o‘qigan. Keyinchalik SMM sohasiga kirib, Toshkentda yirik reklama agentligida ishlagan. U Sanjarga va Shaxzodga ijtimoiy tarmoqlarni professional yuritishda maslahatlar bergan. Shuningdek, Sanjar bilan loyiha asosida ishlagan",
+        "city": "Lebsackbury",
+        "zipcode": "31428-2261"
+      },
+      "phone": "024-648-3804",
+      "profession": "SMM mutaxassisi",
+      "company": {
+        "name": "Hoeger LLC",
+        "catchPhrase": "Centralized empowering task-force",
+        "bs": "target end-to-end models"
+      }
+    }
+  ]
+}
